@@ -6,6 +6,7 @@ This is an AVR (ATmega 328) application to try several input devices (key, posit
 ![Big picture](01_doc/bigPicture.jpg)
 
 Link to youtube is bellow:  
+[![Youtube](http://img.youtube.com/vi/XTrDPzpv7VY/0.jpg)](https://youtu.be/XTrDPzpv7VY)
 <img src="01_doc/picture.jpg" height="300px">
 
 ## Environment
